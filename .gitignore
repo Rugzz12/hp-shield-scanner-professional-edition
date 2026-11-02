@@ -1,5 +1,5 @@
 # Keep project specific and local settings out of version control
-/app/build
-/local.properties
+**/build/
 /.idea/
 /.gradle/
+/local.properties
